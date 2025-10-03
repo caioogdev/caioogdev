@@ -1,20 +1,4 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/caioogdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-  </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caioog.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"/>
-  </a>
-  <a>
-     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 ## Sobre mim
-
-###
 
 <p align="left">Desenvolvedor Full Stack com mais de 2 anos de experiência, atuando desde o levantamento de
 requisitos até a definição da arquitetura e modelagem de bancos de dados. Sólida experiência no ecossistema
@@ -25,11 +9,8 @@ Tailwind CSS e boas práticas de acessibilidade e responsividade. Trabalho com m
 integrando rotinas de Scrum, promovendo entregas interativas e colaborativas, além de possuir inglês avançado
 que me permite tanto uma comunicação eficaz quanto o acompanhamento de conteúdos técnicos na língua.</p>
 
-###
 
 ## Stacks
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -55,4 +36,17 @@ que me permite tanto uma comunicação eficaz quanto o acompanhamento de conteú
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="nosql logo (mongodb)" />
 </div>
 
-###
+
+## Contato
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/caioogdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  </a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caioog.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"/>
+  </a>
+  <a>
+     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
