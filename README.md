@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">Sobre mim</h3>
+## Sobre mim
 
 ###
 
@@ -27,7 +27,7 @@ que me permite tanto uma comunicação eficaz quanto o acompanhamento de conteú
 
 ###
 
-<h3 align="left">Stacks</h3>
+## Stacks
 
 ###
 
